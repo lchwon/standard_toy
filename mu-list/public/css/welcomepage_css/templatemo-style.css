@@ -28,6 +28,10 @@ body {
 ===============================================
 */
 
+.resp-tabs-list .logo img {
+  background-color: rgb(93, 88, 88) !important;
+}
+
 
 .preloader {
     position: fixed;
@@ -104,7 +108,7 @@ body {
 ===============================================
 */
 .image-bg {
-	background-image: url(../../images/welcomepage_images/background-image.png);
+	background-image: url(../../images/welcomepage_images/background-image-white.png);
     background-repeat: no-repeat;
     background-size: cover;
     max-width: 100%;

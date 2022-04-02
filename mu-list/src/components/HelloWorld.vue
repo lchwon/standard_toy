@@ -52,10 +52,10 @@
             <div class="VerticalTab VerticalTab_hash_scroll VerticalTab_6 tabs_ver_6">
             
               <ul class="resp-tabs-list hor_1">
-                <a href="index.html"><div class="logo"><img src="images/welcomepage_images/logo.png"></div></a>
+                <a hre  f="index.html"><div class="logo"><img src="images/welcomepage_images/logo.png"></div></a>
                 <li class="tabs-1" data-tab-name="profile"><span class="tabs-text">{{ enter }}</span></li>
                 <li class="tabs-2" data-tab-name="resume"><span class="tabs-text">About Us</span></li>
-                <li class="tabs-3" data-tab-name="portfolio"><span class="tabs-text">Our Projects</span></li>             
+                <!-- <li class="tabs-3" data-tab-name="portfolio"><span class="tabs-text">Our Projects</span></li> -->             
                 <li class="tabs-4" data-tab-name="contact"><span class="tabs-text">Contact Us</span></li>
               </ul>
               
@@ -77,7 +77,7 @@
                       </div>
                       <div class="col-md-6">
                         <div class="right-content">
-                          <img src="images/welcomepage_images/home-image.jpg">
+                          <img src="images/welcomepage_images/slack_img.png">
                         </div>
                       </div>
                     </div>
