@@ -1,6 +1,8 @@
 // Easy Responsive Tabs Plugin
 // Author: Samson.Onna <Email : samson3d@gmail.com> 
 (function ($) {
+
+    
     $.fn.extend({
         easyResponsiveTabs: function (options) {
             //Set the default values, use comma to separate the settings, example:
@@ -11,8 +13,8 @@
                 closed: false,
 				active_Hash: false,
                 tabidentify: '',
-                activetab_bg: '#F5F5F5',
-                inactive_bg: '#F5F5F5',
+                activetab_bg: 'transparent',
+                inactive_bg: 'transparent',
                 active_border_color: '#c1c1c1',
                 active_content_border_color: '#c1c1c1',
                 activate: function () {
@@ -158,7 +160,7 @@
                             });
                             $respTabs.find('.resp-tab-content-active.' + options.tabidentify).slideUp().removeClass('resp-tab-content-active resp-accordion-closed');
                             $respTabs.find("[aria-controls=" + $tabAria + "]").addClass('resp-tab-active').css({
-                                'background-color': options.activetab_bg,
+                                /* 'background-color': options.activetab_bg, */
                                 'border-color': options.active_border_color
                             });
 

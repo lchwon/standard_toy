@@ -28,8 +28,8 @@ body {
 ===============================================
 */
 
-.resp-tabs-list .logo img {
-  background-color: rgb(93, 88, 88) !important;
+   .logo img {
+  /* background-color: rgb(93, 88, 88) !important; */
 }
 
 
@@ -108,7 +108,7 @@ body {
 ===============================================
 */
 .image-bg {
-	background-image: url(../../images/welcomepage_images/background-image-white.png);
+	background-image: url(../../images/welcomepage_images/);
     background-repeat: no-repeat;
     background-size: cover;
     max-width: 100%;
@@ -128,7 +128,7 @@ body {
     overflow: hidden;
  }
  .home-container {
-  margin-top: 28.5%;
+  margin-top: 5%;
   background-color: #fff;
  }
 
