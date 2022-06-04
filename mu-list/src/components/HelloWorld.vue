@@ -85,7 +85,7 @@
                   
                 </div>
                 
-                <div class="fc-tab-2">
+                <!-- <div class="fc-tab-2">
                 
                   <div class="about-container">
                     <div class="row">
@@ -98,9 +98,9 @@
                     </div>
                   </div>
                   
-                </div>
+                </div>-->
                 
-                <div class="fc-tab-3">
+                <!-- <div class="fc-tab-3">
 
                   <div class="owl-carousel owl-theme projects-container">
                     <div>
@@ -222,9 +222,9 @@
                     </div>
                   </div>
                   
-                </div>
+                </div> -->
                 
-                <div class="fc-tab-4">
+                <!-- <div class="fc-tab-4">
                 
                   <div class="contact-container">
                     <div class="row">
@@ -257,7 +257,7 @@
                     </div>
                   </div>
                   
-                </div>
+                </div>-->
                 
                 
               </div>
