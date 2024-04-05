@@ -5,7 +5,7 @@
 ## _2024.04.03_(Restart)
 
 ### IDE : VScode (Visual Studio Code)
-### Front : 
+### Front : Vue
 ### CSS : Sass
 ### HTML : HTML5
 ### JS : Javascript (ES5 and ES6)
