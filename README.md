@@ -1,6 +1,6 @@
 
 # standard_toy
-
+http://lcwstandard.duckdns.org/(130.162.130.143)
 
 ## _2024.04.03_(Restart)
 
